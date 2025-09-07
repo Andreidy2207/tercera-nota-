@@ -1,8 +1,8 @@
-package unidad1;
+package Unidad1;
 
 import java.util.Scanner;
 
-public class mayor {
+public class Mayor {
 
     public static void main(String[] args) {
         Scanner number = new Scanner(System.in);

@@ -1,9 +1,9 @@
-package unidad1;
+package Unidad1;
 
 import java.util.Scanner;
 
-public class ejemplouno
-{
+public class EjemploUno {
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Ingrese un número: ");

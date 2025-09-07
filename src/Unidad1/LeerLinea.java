@@ -1,8 +1,8 @@
-package unidad1;
+package Unidad1;
 
 import java.util.Scanner;
 
-public class leerlinea {
+public class LeerLinea {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

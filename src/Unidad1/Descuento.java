@@ -1,8 +1,8 @@
-package unidad1;
+package Unidad1;
 
 import java.util.Scanner;
 
-public class descuento {
+public class Descuento {
     public static void main(String[] args) {
         Scanner tienda = new Scanner(System.in);
 

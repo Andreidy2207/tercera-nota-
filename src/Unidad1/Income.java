@@ -1,6 +1,6 @@
-package unidad1;
+package Unidad1;
 
-public class income {
+public class Income {
     public static void main(String[] args) {
         //Datos del cliente
 
@@ -21,3 +21,4 @@ public class income {
     }
     
 }
+

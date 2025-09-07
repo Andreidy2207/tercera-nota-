@@ -1,8 +1,8 @@
-package unidad1;
+package Unidad1;
 
 import java.util.Scanner;
 
-public class operador {
+public class Operador {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Ingrese el primer número: ");
@@ -25,4 +25,3 @@ public class operador {
         scanner.close();
     }
 }
-

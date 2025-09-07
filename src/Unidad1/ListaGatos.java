@@ -1,8 +1,8 @@
-package unidad1;
+package Unidad1;
 
 import java.util.Scanner;
 
-public class listagatos { 
+public class ListaGatos { 
 
     public static void main(String[] args) {
         Scanner cats = new Scanner(System.in);

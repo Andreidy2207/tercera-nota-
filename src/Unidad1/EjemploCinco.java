@@ -1,6 +1,8 @@
+package Unidad1;
+
 import java.util.Scanner;
 
-public class ejemplocinco {
+public class EjemploCinco {
 
     public static void main(String[] args) {
         Scanner num = new Scanner(System.in);

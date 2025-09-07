@@ -1,8 +1,8 @@
-package unidad1;
+package Unidad1;
 
 import java.util.Scanner;
 
-public class datos {
+public class Datos {
     public static void main(String[] args) {
         Scanner information = new Scanner(System.in);
 

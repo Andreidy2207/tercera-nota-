@@ -1,8 +1,8 @@
-package unidad1;
+package Unidad1;
 
 import java.util.Scanner;
 
-public class datosdos {
+public class DatosDos {
     public static void main(String[] args) {
         Scanner information = new Scanner(System.in);
         System.out.print("Ingrese su nombre: ");

@@ -1,6 +1,6 @@
-package unidad1;
+package Unidad1;
 
-public class ejemplotres {
+public class EjemploTres {
     public static void main(String[] args) {
         double numeroGrande = 1.234567890123456789;
 float numeroPequeno = 0.00000123f;

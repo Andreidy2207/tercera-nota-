@@ -1,8 +1,8 @@
-package unidad1;
+package Unidad1;
 
 import java.util.Scanner;
 
-public class medianumeros {
+public class MediaNumeros {
     public static void main(String[] args) {
         Scanner number = new Scanner(System.in);
 

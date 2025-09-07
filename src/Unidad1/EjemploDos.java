@@ -1,6 +1,6 @@
-package unidad1;
+package Unidad1;
 
-public class ejemplodos 
+public class EjemploDos 
 {
     public static void main(String[] args) {
         // Declaración de variables con buenas prácticas de nombrado
@@ -16,4 +16,3 @@ public class ejemplodos
         System.out.println("Is the Course Active? " + isCourseActive);
     }
 }
-
